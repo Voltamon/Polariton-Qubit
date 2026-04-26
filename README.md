@@ -16,7 +16,7 @@ In quantum mechanics, the strange brackets like $|\Psi\rangle$ are called **Dira
 
 -   **$\hat{P}_{\mu,\tau}^n |\Psi_i\rangle$**: The symbol $\hat{P}$ represents the **Magnon-Polariton Operator**, a computation you want to perform. $|\Psi_i\rangle$ is your starting quantum state .
 
- -  **$\Gamma_\mu^n \left[ \begin{matrix} |S_i\rangle \\ |A_i\rangle \end{matrix} \right]$** : These represent a "Skyrmion" ($|S_i\rangle$) and an "Anti-Skyrmion" ($|A_i\rangle$) two distinct, coupled states inside a matrix. $\Gamma$ is a coupling factor that dictates how strongly these two states interact.
+ -  **$\Gamma_{\mu}^n \begin{bmatrix} |S_i\rangle \\ |A_i\rangle \end{bmatrix}$** : These represent a "Skyrmion" ($|S_i\rangle$) and an "Anti-Skyrmion" ($|A_i\rangle$) two distinct, coupled states inside a matrix. $\Gamma$ is a coupling factor that dictates how strongly these two states interact.
  
  -  **$\oplus$** : This is the Whitney sum operator. In quantum mechanics, it means combining two separate, independent spaces into one larger, unified system without them collapsing into each other.
  
